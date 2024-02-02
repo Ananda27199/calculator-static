@@ -1,0 +1,33 @@
+.calbody{
+    width: 600px;
+    height: 445px;
+    background-color: grey;
+    margin-left: 30%;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.calscreen{
+    height: 60px;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 58px;
+    pointer-events: none;
+    
+
+    
+}
+.btn{
+    width: 85px;
+    height: 55px;
+    background-color: beige;
+    margin-top: 16px;
+    margin-right: 25px;
+}
+.button{
+    margin-left: 88px;
+    margin-top: 25px;
+}
+.input{
+    height: 100%;
+    width: 100%;
+}
